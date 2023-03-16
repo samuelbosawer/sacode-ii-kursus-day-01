@@ -10,3 +10,7 @@ Pengenalan GIT &amp; GIThub
 ## Perintah GIT
 	* git clone alama_repo = untuk salin repo dari github
 	* git remote -v = untuk cek remote repo
+	* git add .  
+	* git commit -m 'isi pesan' = buat commit
+	* git push  = push atau kirim file ke github
+	* git pull = tarik coding dari github
